@@ -59,6 +59,7 @@
         font-size: 1.3rem;
         font-weight: bold;
         padding: 0.7rem;
+        cursor:pointer;
     }
     .button-div {
         margin-top: 1rem;
